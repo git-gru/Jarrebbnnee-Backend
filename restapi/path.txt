@@ -1,0 +1,15 @@
+user update
+
+localhost/jarrebbnnee/jarrebbnnee_api/index.php/action=user_profile&u_first_name=rajesh&u_last_name=mudaliar&u_address=ahmedabad&u_id=4
+---------------------------
+device
+
+localhost/jarrebbnnee/jarrebbnnee_api/index.php?action=userRagister&u_first_name=sanit&u_last_name=patel&u_email=kalpeshpatel@gmail.com&u_password=111111&u_type=1&mr_device_type=1&mr_device_token=abcd
+---------------------------
+user Register
+
+localhost/jarrebbnnee/jarrebbnnee_api/index.php?action=userRagister&u_first_name=sanit&u_last_name=patel&u_email=sanitpatel@gmail.com&u_password=111111&u_type=1&mr_device_type=1&mr_device_token=abcd
+---------------------------
+admin login
+
+localhost/jarrebbnnee/jarrebbnnee_api/index.php?action=loginAdmin&email=admin@jarrebbnnee.com&password=111111&mr_device_type=1&mr_device_token=abcd

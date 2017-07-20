@@ -1,0 +1,28 @@
+[23-Feb-2017 13:17:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[23-Feb-2017 13:17:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[23-Feb-2017 13:17:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[23-Feb-2017 13:17:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[23-Feb-2017 13:18:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[23-Feb-2017 13:23:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[23-Feb-2017 15:26:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[24-Feb-2017 05:28:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[24-Feb-2017 05:30:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[24-Feb-2017 07:20:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[24-Feb-2017 07:20:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[24-Feb-2017 08:53:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[24-Feb-2017 08:54:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shubantech/public_html/ebay_clone_api/common/config.php on line 3
+[16-Mar-2017 11:31:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/index.php on line 20
+[16-Mar-2017 11:31:51 UTC] PHP Fatal error:  Call to undefined function userRagister() in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/controller.php on line 28
+[16-Mar-2017 11:31:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/index.php on line 20
+[16-Mar-2017 11:31:53 UTC] PHP Fatal error:  Call to undefined function userRagister() in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/controller.php on line 28
+[17-Mar-2017 10:47:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 630
+[18-Mar-2017 05:03:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 683
+[18-Mar-2017 05:03:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 683
+[18-Mar-2017 06:10:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 679
+[22-Mar-2017 05:58:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 630
+[22-Mar-2017 06:12:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 630
+[22-Mar-2017 06:18:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 854
+[22-Mar-2017 06:19:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 854
+[23-Mar-2017 13:23:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 291
+[25-Mar-2017 05:36:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/modal.php on line 1218
+[25-Mar-2017 07:17:18 UTC] PHP Fatal error:  Cannot redeclare Controller::getMyCart() in /home/shubantech/public_html/jarrebbnnee/jarrebbnnee_api/v1/controller.php on line 148
